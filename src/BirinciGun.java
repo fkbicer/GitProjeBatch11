@@ -9,7 +9,8 @@ public class BirinciGun {
 				System.out.println("10.35 ikinci gun");
 
 				System.out.println("11.05 local");
-				System.out.println("11.35 github.com	")
+				System.out.println("11.35 github.com	");
+				System.out.println("conflict beklemiyorum");
 
 			
 

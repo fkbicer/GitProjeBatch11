@@ -14,6 +14,7 @@ public class BirinciGun {
 				System.out.println("conflict beklemiyorum");
 				System.out.println("10.26 feature branch");
 				System.out.println("bir satýr daha");
+				System.out.println("master branch satýr ekledim.");
 					
 				
 			

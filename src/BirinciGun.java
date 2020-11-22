@@ -6,5 +6,6 @@ public class BirinciGun {
 				System.out.println("Ikinci Commit");
 				System.out.println("10.11 ikinci gun	.");
 				System.out.println("10.26 ikinci gun ");
+				System.out.println("10.35 ikinci gun");
 			}
 }

@@ -10,13 +10,10 @@ public class BirinciGun {
 
 				System.out.println("11.05 local");
 				System.out.println("11.35 github.com	");
-<<<<<<< HEAD
-				System.out.println("conflict beklemiyorum");
-=======
-				System.out.println("bakalım conflict olacak mı ");
-				
->>>>>>> refs/remotes/origin/master
 
+				System.out.println("conflict beklemiyorum");
+					
+				
 			
 
 			}

@@ -1,8 +1,9 @@
 
-public class BirinciGün {
+public class BirinciGÃ¼n {
 	
 			public static void main(String[] args) {
-				System.out.println("11.57 --Birinci gün.");
-				System.out.println("Ýkinci Commit");
+				System.out.println("11.57 --Birinci gÃ¼n.");
+				System.out.println("Ä°kinci Commit");
+				System.out.println("10.11 ikinci gÃ¼n.")
 			}
 }

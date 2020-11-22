@@ -12,6 +12,7 @@ public class BirinciGun {
 				System.out.println("11.35 github.com	");
 
 				System.out.println("conflict beklemiyorum");
+				System.out.println("10.26 feature branch");
 					
 				
 			
